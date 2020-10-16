@@ -1,3 +1,6 @@
+## If you stumble upon this, This is not the real DETR repository. This is DETR wrapped into an installable Python package. The real DETR repo and all credit for it's creation go to the gods at FAIR and can be found here: [DETR Github repo](https://github.com/facebookresearch/detr)
+
+
 **DE⫶TR**: End-to-End Object Detection with Transformers
 ========
 PyTorch training code and pretrained models for **DETR** (**DE**tection **TR**ansformer).
